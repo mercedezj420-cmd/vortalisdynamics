@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOURSITE.github.io/sitemap.xml
+Sitemap: https://mercedezj420-cmd.github.io/sitemap.xml
